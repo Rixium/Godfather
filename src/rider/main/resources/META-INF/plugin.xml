@@ -1,14 +1,14 @@
 <idea-plugin>
   <id>godfather-rider</id>
   <name>Godfather</name>
-  <version>_PLACEHOLDER_</version>
+  <version>0.1.1</version>
   <vendor url="https://project-url">Daniel Pottenger</vendor>
-  <idea-version since-build="_PLACEHOLDER_" until-build="_PLACEHOLDER_" />
+  <idea-version since-build="192" />
   <depends>com.intellij.modules.rider</depends>
 
   <description>
 <![CDATA[
-<p>Sample description</p>
+<p>Mob programming plugin for Rider</p>
 ]]>
   </description>
 </idea-plugin>
